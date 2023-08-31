@@ -1,2 +1,13 @@
-
 /* Your CSS Code here. */
+.holder{
+	display:flex;
+	justify-content:space-evenly;
+	flex-wrap:wrap;
+	flex-direction:row;
+	width:500px;
+}
+.one{
+	width:100px;
+	height:120px;
+	background-color:blue;
+}
